@@ -1,0 +1,7 @@
+pillow
+ipython
+ipykernel
+pandas
+pdfkit
+fastapi
+uvicorn
